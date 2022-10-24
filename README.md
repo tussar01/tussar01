@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md Muzahidul Islam
+- 👋 Hi, I’m Md Muzahidul
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Java, PHP, React
 - 💞️ I’m looking to collaborate on frontend 
