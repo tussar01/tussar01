@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Md Muzahidul
+- 👋 Hi, I’m Muzahidul Islam
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Java, PHP, React
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on frontend 
 - 📫 How to reach me tussar.nsu@gmail.com
 
